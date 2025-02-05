@@ -16,5 +16,12 @@
     "imagePath": "/assets/images/tools/theme-toggle.rdsx.dev.jpg",
     "excerpt": "Some creative examples of adding a toogle theme switcher to your website using View Transitions",
     "href": "https://theme-toggle.rdsx.dev/"
+  },
+  {
+    "title": "DefensiveCSS",
+    "imagePath": "/assets/images/tools/defensivecss.dev.jpg",
+    "excerpt": "Defensive CSS is a simple and effective way to prevent layout shifts in your web projects",
+    "href": "https://defensivecss.dev/",
+    "featured": true
   }
 ]

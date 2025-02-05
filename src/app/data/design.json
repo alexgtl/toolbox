@@ -14,12 +14,6 @@
     "href": "https://google.es"
   },
   {
-    "title": "DefensiveCSS",
-    "imagePath": "/assets/images/tools/defensivecss.dev.jpg",
-    "excerpt": "Defensive CSS is a simple and effective way to prevent layout shifts in your web projects",
-    "href": "https://defensivecss.dev/"
-  },
-  {
     "title": "CSS Grid Generator",
     "imagePath": "/assets/images/tools/cssgrid-generator--big.jpeg",
     "excerpt": "A simple online tool to generate CSS Grid code for your web projects",
@@ -35,7 +29,8 @@
     "title": "Iconify",
     "imagePath": "/assets/images/tools/iconify.design.jpg",
     "excerpt": "The home of open source icon sets, as they say. You'll find diferent icons library here",
-    "href": "https://iconify.design/"
+    "href": "https://iconify.design/",
+    "featured": true
   },
   {
     "title": "Lucide",
