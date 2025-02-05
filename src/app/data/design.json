@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Squoosh.app",
+    "imagePath": "/assets/images/tools/squoosh--big.jpeg",
+    "favicon": "/src/assets/images/squoosh--favicon.png",
+    "excerpt": "Squoosh is a handy online tool for compressing and optimizing images right in your browser",
+    "href": "https://squoosh.app/",
+    "isHighlighted": true
+  },
+  {
+    "title": "Fontsource",
+    "imagePath": "/assets/images/tools/fontsource--big.jpeg",
+    "excerpt": "An easy way to add open-source fonts to your web projects with npm or Yarn",
+    "href": "https://google.es"
+  },
+  {
+    "title": "DefensiveCSS",
+    "imagePath": "/assets/images/tools/defensivecss.dev.jpg",
+    "excerpt": "Defensive CSS is a simple and effective way to prevent layout shifts in your web projects",
+    "href": "https://defensivecss.dev/"
+  },
+  {
+    "title": "CSS Grid Generator",
+    "imagePath": "/assets/images/tools/cssgrid-generator--big.jpeg",
+    "excerpt": "A simple online tool to generate CSS Grid code for your web projects",
+    "href": "https://cssgrid-generator.netlify.app/"
+  },
+  {
+    "title": "Svgl",
+    "imagePath": "/assets/images/tools/svgl.app.jpg",
+    "excerpt": "A curated list of icons for your next project",
+    "href": "https://svgl.app/"
+  },
+  {
+    "title": "Iconify",
+    "imagePath": "/assets/images/tools/iconify.design.jpg",
+    "excerpt": "The home of open source icon sets, as they say. You'll find diferent icons library here",
+    "href": "https://iconify.design/"
+  },
+  {
+    "title": "Lucide",
+    "imagePath": "/assets/images/tools/lucide.dev.jpg",
+    "excerpt": "A simply beautiful open-source icons library",
+    "href": "https://lucide.dev/"
+  },
+  {
+    "title": "SiteInspire",
+    "imagePath": "/assets/images/tools/siteinspire.com.jpg",
+    "excerpt": "Find inpiration for your next project here",
+    "href": "https://www.siteinspire.com/"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "ToolName",
+    "imagePath": "/assets/images/tools/unsplash.png",
+    "excerpt": "Awesome item of the toolbox.io items collection",
+    "href": "https://google.es"
+  },
+  {
+    "title": "Instagres",
+    "imagePath": "/assets/images/tools/instagres.com.jpg",
+    "excerpt": "Generate an instant Postgres database that you can use in your next project or as a demo database",
+    "href": "https://instagres.com/"
+  },
+  {
+    "title": "ThemeToogle",
+    "imagePath": "/assets/images/tools/theme-toggle.rdsx.dev.jpg",
+    "excerpt": "Some creative examples of adding a toogle theme switcher to your website using View Transitions",
+    "href": "https://theme-toggle.rdsx.dev/"
+  }
+]
