@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Tool } from '../entities/Tools'
+import { Tool } from '../../entities/Tools'
 import { Button, Card } from '@chakra-ui/react'
 import Link from 'next/link'
 
@@ -27,6 +27,7 @@ export default function ToolCard({ tool }: { tool: Tool }) {
               alt={tool.title}
               style={headerImageStyle}
               fill
+              sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
             />
           </Card.Header>
           <Card.Body gap="2">
@@ -41,22 +42,13 @@ export default function ToolCard({ tool }: { tool: Tool }) {
             </Card.Description>
 
             <Card.Footer gap="2" justifyContent="flex-end">
-              <Button variant="subtle">Learn more</Button>
+              <Button colorPalette="teal" variant="outline">
+                Go to site
+              </Button>
             </Card.Footer>
           </div>
         </div>
       </Card.Root>
     </Link>
   )
-}
-
-{
-  /* <Card.Footer gap="2" justifyContent="flex-end">
-  <Button variant="solid">Learn more</Button>
-</Card.Footer>
-
-          <Card.Description>
-            {tool.excerpt}
-          </Card.Description>
-          */
 }

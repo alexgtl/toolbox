@@ -15,7 +15,7 @@
   },
   {
     "title": "CSS Grid Generator",
-    "imagePath": "/assets/images/tools/cssgrid-generator--big.jpeg",
+    "imagePath": "/assets/images/tools/cssgrid-generator--big.jpg",
     "excerpt": "A simple online tool to generate CSS Grid code for your web projects",
     "href": "https://cssgrid-generator.netlify.app/"
   },
@@ -43,5 +43,11 @@
     "imagePath": "/assets/images/tools/siteinspire.com.jpg",
     "excerpt": "Find inpiration for your next project here",
     "href": "https://www.siteinspire.com/"
+  },
+  {
+    "title": "Htmlrev",
+    "imagePath": "/assets/images/tools/htmlrev.com.jpg",
+    "excerpt": "Free html templates for your next project",
+    "href": "https://htmlrev.com/"
   }
 ]

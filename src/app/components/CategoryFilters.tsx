@@ -1,10 +1,8 @@
 import { HStack, Button } from '@chakra-ui/react'
 
 export default function CategoryFilters({
-  filteredValue,
   setResults,
 }: {
-  filteredValue: string
   setResults: (filter: string) => void
 }) {
   return (

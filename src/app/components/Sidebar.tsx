@@ -1,13 +1,7 @@
-export function Logo() {
-  return <h1 className="text-[2.5rem] font-bold mb-2rem">Techbox.io</h1>
-}
-
 export default function Sidebar() {
   return (
-    <aside className="grid sm:min-h-screen pt-8">
+    <aside className="grid sm:min-h-screen pt-3">
       <div className="w-full">
-        <Logo />
-
         <nav className="sidebar__nav">
           <ul className="nav__main">
             <li className="sidebar__nav-item">

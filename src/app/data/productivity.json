@@ -1,5 +1,12 @@
 [
   {
+    "title": "Notion",
+    "imagePath": "/assets/images/tools/notion.jpeg",
+    "excerpt": "Collaborative tool for personal and professional use. Write everything and have it all in one place.",
+    "href": "https://monefy.com/",
+    "featured": true
+  },
+  {
     "title": "Monefy",
     "imagePath": "/assets/images/tools/monefy.com.jpg",
     "excerpt": "Take control of your money with Monefy, a personal finance tracker",
