@@ -42,7 +42,7 @@ export default function ToolCard({ tool }: { tool: Tool }) {
             </Card.Description>
 
             <Card.Footer gap="2" justifyContent="flex-end">
-              <Button colorPalette="teal" variant="outline">
+              <Button colorPalette="teal" variant="solid">
                 Go to site
               </Button>
             </Card.Footer>

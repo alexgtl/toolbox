@@ -9,34 +9,38 @@ export default function CategoryFilters({
     <HStack wrap="wrap" gap="4">
       <Button
         onClick={() => setResults('development')}
-        variant="surface"
+        variant="outline"
         className="font-bold"
-        size="xs"
+        colorPalette={'teal'}
+        size="md"
       >
         Development
       </Button>
       <Button
         onClick={() => setResults('design')}
-        variant="surface"
+        variant="outline"
         className="font-bold"
-        size="xs"
+        colorPalette={'teal'}
+        size="md"
       >
         Design
       </Button>
       <Button
         onClick={() => setResults('productivity')}
-        variant="surface"
+        variant="outline"
         className="font-bold"
-        size="xs"
+        colorPalette={'teal'}
+        size="md"
       >
         Productivity
       </Button>
 
       <Button
         onClick={() => setResults('')}
-        variant="surface"
+        variant="outline"
         className="font-bold"
-        size="xs"
+        colorPalette={'teal'}
+        size="md"
       >
         Reset filter
       </Button>

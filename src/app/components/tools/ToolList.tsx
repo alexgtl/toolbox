@@ -79,16 +79,16 @@ export default function ToolList({ tools }: { tools: any }) {
       </section>
 
       {(filteredResults === '' || filteredResults === FilterBy.DEVELOPMENT) && (
-        <ToolRow tools={tools.development} />
+        <ToolRow title="Development" tools={tools.development} />
       )}
 
       {(filteredResults === '' || filteredResults === FilterBy.DESIGN) && (
-        <ToolRow tools={tools.design} />
+        <ToolRow title="Design" tools={tools.design} />
       )}
 
       {(filteredResults === '' ||
         filteredResults === FilterBy.PRODUCTIVITY) && (
-        <ToolRow tools={tools.productivity} />
+        <ToolRow title="Productivity" tools={tools.productivity} />
       )}
     </>
   )

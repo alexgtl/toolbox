@@ -12,7 +12,7 @@ export default function Header() {
         priority
       />
 
-      <div>
+      <div className="max-w-[80%] lg:max-w-[100%] flex flex-col text-center lg:text-left">
         <Logo />
         <span>
           {' '}
